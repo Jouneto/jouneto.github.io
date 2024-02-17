@@ -6,6 +6,7 @@
     <title>super cool site</title>
 </head>
 <body>
+    <?php require "test.php";?>
     <!--what thE FUCK is javaScript (half joke, to lazy to learn it)-->
     <h1>Hello <del>world!</del> TO THIS SITE!</h1>
     <p>test 123 321</p>
