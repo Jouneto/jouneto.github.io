@@ -89,6 +89,21 @@ header {
     /*border: 5px solid red;*/
 }
 
+.link-to-berddflap {
+    position: relative;
+    text-align: center;
+}
+
+.link-to-berddflap .center-text{
+    position: absolute;
+    margin-top:-260px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Comic Sans MS;
+    font-size: 18px;
+
+}
+
 .left-column .flapyberd-gam {
     border: none;
     padding-right: 30px;
