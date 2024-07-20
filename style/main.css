@@ -94,14 +94,13 @@ header {
     text-align: center;
 }
 
-.link-to-berddflap .center-text{
+.center-text {
     position: absolute;
-    margin-top:-260px;
+    margin-top: -260px;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: Comic Sans MS;
     font-size: 18px;
-
 }
 
 .left-column .flapyberd-gam {
